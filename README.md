@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Input50
+- 👀 I’m interested in Nothing
+- 🌱 I’m currently learning Nothing
+- 💞️ I’m looking to collaborate on Nothing
+- 📫 How to reach me Nowhere
