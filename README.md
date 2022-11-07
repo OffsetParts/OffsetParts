@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Input50
-- 👀 I’m interested in Nothing
-- 🌱 I’m currently learning Nothing
+- 👋 Hi, I’m Narcos Diaz
+- 👀 I’m interested in science, methodology, ethics, and math
+- 🌱 I’m currently learning Python, JS, and lua/luau
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me Nowhere
