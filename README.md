@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Narcos Diaz
-- 👀 I’m interested in science, methodology, ethics, and math
+- 👀 I’m interested in computer science, truth, and math
 - 🌱 I’m currently learning Python, JS, and lua/luau
-- 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me Nowhere
+- 💞️ I’m looking to collaborate on nothing
+- 📫 You can reach me at nowhere
